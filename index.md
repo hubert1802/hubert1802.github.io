@@ -4,7 +4,7 @@
 
 ### Project
 
-[Web Application Dukun Gudang](/dukungudang)
+[Dukun Gudang](/dukungudang)
 <p><img src="images/dukungudanghome.JPG?raw=true" width="500" height="300"></p>
 
 ---
