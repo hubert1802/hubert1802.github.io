@@ -5,7 +5,7 @@
 ### Project
 
  <a href="https://dukungudang.herokuapp.com/">[Web Application Dukun Gudang]</a>
-<img src="images/dukungudanghome.JPG?raw=true"/>
+<p><img src="images/dukungudanghome.JPG?raw=true" width="500" height="300"></p>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
