@@ -4,8 +4,8 @@
 
 ### Project
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+ <a href="https://dukungudang.herokuapp.com/">[Web Application Dukun Gudang]</a>
+<img src="images/dukungudanghome.JPG?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
