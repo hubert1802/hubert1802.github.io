@@ -1,6 +1,6 @@
 ## Project Dukun Gudang
 
-**Project description:** Project ini adalah sebuah web application. Kegunaan dari aplikasi ini adalah membuat peramalan terkait barang yang akan distok oleh pedagang kecil (UMKM). Latar belakang pembuatan aplikasi ini karena banyaknya pedagang kecil yang tidak mempunyai modal terlalu besar, namun terus merugi karena barang yang distock banyak tidak pernah habis, dan sebaliknya ketika barang distock sedikit dan pembelian banyak, maka pedagang tidak dapat mendapatkan untung yang maksimal.
+**Deskripsi Project:** Project ini adalah sebuah web application. Kegunaan dari aplikasi ini adalah membuat peramalan terkait barang yang akan distok oleh pedagang kecil (UMKM). Latar belakang pembuatan aplikasi ini karena banyaknya pedagang kecil yang tidak mempunyai modal terlalu besar, namun terus merugi karena barang yang distock banyak tidak pernah habis, dan sebaliknya ketika barang distock sedikit dan pembelian banyak, maka pedagang tidak dapat mendapatkan untung yang maksimal.
 
 ### Peran saya dalam project ini
 
