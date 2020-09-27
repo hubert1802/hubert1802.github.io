@@ -1,31 +1,11 @@
-## This can be your internal website page / project page
+## Project Dukun Gudang
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Project description:** Project ini adalah sebuah web application. Kegunaan dari aplikasi ini adalah membuat peramalan terkait barang yang akan distok oleh pedagang kecil (UMKM). Latar belakang pembuatan aplikasi ini karena banyaknya pedagang kecil yang tidak mempunyai modal terlalu besar, namun terus merugi karena barang yang distock banyak tidak pernah habis, dan sebaliknya ketika barang distock sedikit dan pembelian banyak, maka pedagang tidak dapat mendapatkan untung yang maksimal.
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+### Peran saya dalam project ini
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+Peran saya dalam project ini adalah melakukan analisa data dan machine learning dibalik dari aplikasi ini yang digunakan untuk meramalkan persediaan barang customer. Data yang digunakan masih data dummy, sehingga parameter dari model yang dibuatpun belum 100% akurat dengan kehidupan nyata.
+Selain itu saya juga melakukan data analysis untuk memikirkan data - data apa saja yang akan berguna untuk customer, dan saya melakukan kalkulasi dengan bahasa pemrograman python untuk mendukung hal tersebut.
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
-
-### 2. Assess assumptions on which statistical inference will be based
-
-```javascript
-if (isAwesome){
-  return true
-}
-```
-
-### 3. Support the selection of appropriate statistical tools and techniques
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-### 4. Provide a basis for further data collection through surveys or experiments
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Untuk web dari aplikasi tersebut dapat dilihat di:
+<a href="https://dukungudang.herokuapp.com/">Link Web Application Dukun Gudang</a> 
