@@ -5,7 +5,7 @@
 ### Project
 
 [Dukun Gudang](/dukungudang)
-<p><img src="images/dukungudanghome.JPG?raw=true" width="500" height="300"></p>
+<p><img src="images/dukungudanghome.JPG?raw=true" width="300" height="150"></p>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
