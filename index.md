@@ -13,7 +13,7 @@
 
 ---
 [Bama Studios](page/bamastudios)
-<p><img src="images/bamahome.JPG?raw=true" width="300" height="150"></p>
+<p><img src="images/bamahome.JPG?raw=true" width="300" height="400"></p>
 
 ---
 
