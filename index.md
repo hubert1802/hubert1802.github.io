@@ -8,8 +8,8 @@
 <p><img src="images/dukungudanghome.JPG?raw=true" width="300" height="150"></p>
 
 ---
-[Xtream Chaser](/page/Xtream Chaser)
-<p><img src="images/dXtreamchase.jpg?raw=true" width="300" height="150"/></p>
+[Xtream Chaser](page/xtreamchaser)
+<p><img src="images/Xtreamchase.jpg?raw=true" width="300" height="150"></p>
 
 ---
 [Project 3 Title](http://example.com/)
