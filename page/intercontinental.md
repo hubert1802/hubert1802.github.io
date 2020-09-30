@@ -1,6 +1,6 @@
 ## Project Inter Continental
 
-**Deskripsi Project:** Project ini adalah project pembuatan design menggunakan Adobe Animate dari sebuah web. 
+**Deskripsi Project:** Project ini adalah project pembuatan design menggunakan Adobe Animate dari sebuah web. Dengan tujuan untuk mempromosikan hotel / instansi tersebut.
 
 ### Peran saya dalam project ini
 
