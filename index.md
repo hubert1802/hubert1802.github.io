@@ -24,7 +24,7 @@
 
 ### Achievement
 - Honorable Mention at The 2019 ICPC Asia Kuala Lumpur Regional Contest
-- [Honorable Mention at The 2019 ICPC Asia Jakarta Regional Contest](pdf/2019-Asia Jakarta 2019-HONORABLE.pdf)
+- [Honorable Mention at The 2019 ICPC Asia Jakarta Regional Contest](/pdf/2019-Asia Jakarta 2019-HONORABLE.pdf)
 
 ---
 
