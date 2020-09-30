@@ -19,6 +19,7 @@
 <p><img src="images/intercontinentalhome.png?raw=true" width="300" height="150"></p>
 
 [Natural Language Processing](page/NLP)
+
 ---
 
 ### Achievement
