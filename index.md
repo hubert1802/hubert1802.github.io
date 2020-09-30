@@ -23,12 +23,8 @@
 ---
 
 ### Achievement
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- Honorable Mention at The 2019 ICPC Asia Kuala Lumpur Regional Contest
+- [Honorable Mention at The 2019 ICPC Asia Jakarta Regional Contest](pdf/2019-Asia Jakarta 2019-HONORABLE.pdf)
 
 ---
 
