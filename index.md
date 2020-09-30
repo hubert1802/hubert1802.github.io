@@ -15,6 +15,9 @@
 [Bama Studios](page/bamastudios)
 <p><img src="images/bamahome.JPG?raw=true" width="300" height="400"></p>
 
+[Inter Continental](page/intercontinental)
+<p><img src="images/intercontinentalhome.png?raw=true" width="300" height="400"></p>
+
 ---
 
 ### Achievement
