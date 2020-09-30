@@ -1,13 +1,13 @@
-## Project Xtream Chaser
+## Project Bama Studios
 
-**Deskripsi Project:** Project ini adalah sebuah web yang menggunakan bahasa pemrograman HTML dan Javascript. Web ini ditujukan untuk penilaian akhir dari mata perkuliahan Human and Computer Interaction.
+**Deskripsi Project:** Project ini adalah pembuatan web sederhana untuk toko - toko kecil. Bahasa pemrogramman yang digunakan adalah HTML.
 
 ### Peran saya dalam project ini
 
-Peran saya dalam project ini adalah Resource Collector, dimana saya mencari data - data yang dibutuhkan untuk membuat website ini. Selain itu, saya juga berperan dalam melakukan checking akan bug - bug yang ada dalam website tersebut.
+Keseluruhan dari project ini adalah buatan saya. Untuk design sudah diberikan layoutnya, namun tetap ada tambahan untuk mempercantik dan memperhalus design yang ada.
 
 Untuk web tersebut dapat dilihat di:
-<a href="http://ryansiau.github.io/College-4thterm-hci">Link Web Xtream Chaser</a> 
+<a href="https://hubert1802.github.io/HCI-Mid/">Link Web Bama Studios</a> 
 
 Untuk melihat source code dapat menggunakan link dibawah ini:
-<a href="https://github.com/Ryansiau/College-4thterm-hci">Link untuk source code</a> 
+<a href="https://github.com/hubert1802/HCI-Mid">Link untuk source code</a> 
