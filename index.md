@@ -12,8 +12,8 @@
 <p><img src="images/Xtreamchase.jpg?raw=true" width="300" height="150"></p>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Bama Studios](page/bamastudios)
+<p><img src="images/bamahome.JPG?raw=true" width="300" height"150"></p>
 
 ---
 
