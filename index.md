@@ -8,8 +8,8 @@
 <p><img src="images/dukungudanghome.JPG?raw=true" width="300" height="150"></p>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Xtream Chaser](/page/Xtream Chaser)
+<p><img src="images/dXtreamchase.jpg?raw=true" width="300" height="150"/></p>
 
 ---
 [Project 3 Title](http://example.com/)
